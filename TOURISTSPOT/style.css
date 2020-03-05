@@ -1,0 +1,153 @@
+.from-group{
+    background-color: #00aeef;
+}
+
+nav{
+    background-color: blue;
+}
+.col-md-8{
+    background-color: whitesmoke;
+}
+.login{
+ margin-top: 400px;
+
+    background-color: #a072c7;
+    color: white;
+    text-align: center;
+}
+.signup{
+    margin-top: 300px;
+
+    background-color: #a072c7;
+    color: white;
+    text-align: center;
+}
+
+
+}
+.side{
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer,
+.footer a{
+    font-size: 14px;
+    line-height: 23px;
+    color: black;
+}
+
+.footer h4{
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 15px;
+    color: lemonchiffon;
+    letter-spacing: 5px;
+    margin: 0px;
+}
+.footer h4:after{
+    content: '';
+    background: #fff;
+    width: 20%;
+    height: 2px;
+    display: block;
+    margin: 15px 0px;
+}
+.footer ul{
+    list-style-type: none;
+    padding: 0px;
+}
+.footer-top{
+    background: #606470;
+    text-align: left;
+    padding: 50px 0 30px;
+}
+
+.footer-menu a{
+    display: inline-block;
+    line-height: 15px;
+    margin-bottom: 8px;
+}
+.footer-menu a:hover{
+    color: #fff;
+}
+.footer-address  a{
+    padding-left: 30px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    margin-bottom: 10px;
+}
+.footer-address  a:hover{
+    color: #fff;
+}
+.footer-address  a.house-ico:before{
+    font-family: 'FontAwesome';
+    content: '\f015';
+    position: absolute;
+    font-size: 16px;
+    left: 0;
+}
+.footer-address  a.phone-ico:before{
+    font-family: 'FontAwesome';
+    content: '\f095';
+    position: absolute;
+    font-size: 16px;
+    left: 0;
+}
+.footer-address  a.msge-ico:before{
+    font-family: 'FontAwesome';
+    content: '\f0e0';
+    position: absolute;
+    font-size: 16px;
+    left: 0;
+}
+.footer-address  a.fax-ico:before{
+    font-family: 'FontAwesome';
+    content: '\f1ac';
+    position: absolute;
+    font-size: 16px;
+    left: 0;
+}
+.footer-inner ul li .fa{
+    color: #ffffff;
+    font-size: 16px;
+    margin-right: 10px;
+}
+.footer-right a{
+    margin-right: 10px;
+}
+.footer-map{
+    margin-top: 20px;
+}
+
+.footer-bottom{
+    text-align: center;
+    background: #1b3b48;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.footer-bottom h5{
+    line-height: 16px;
+    font-size: 14px;
+    color: #fff;
+    font-family: 'RalewayLight';
+    margin: 0;
+    font-weight: normal;
+}
+.footer-bottom h5 a {
+    color: #fff;
+}
+.well {
+    margin-right: 100px;
+
+}
